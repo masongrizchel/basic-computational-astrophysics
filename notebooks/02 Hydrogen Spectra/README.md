@@ -25,7 +25,7 @@ The code calculates and visualizes the three primary series:
 * **Data Visualization:** Plotting emission spectra on a realistic wavelength scale.
 * **Color Theory:** Mapping physical wavelengths (nm) to digital RGB values for accurate rendering.
 
-## 📸 Visualization
+## Visualization
 The notebook generates a "digital spectrometer" view, showing the distinct "fingerprint" of Hydrogen that astronomers use to identify the element in distant stars.
 
 ---
