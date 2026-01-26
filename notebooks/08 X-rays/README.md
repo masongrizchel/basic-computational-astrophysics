@@ -1,4 +1,4 @@
-# Stellar Remnants Part 5: X-Ray Binaries & Unsupervised Learning
+# X-Ray Binaries & Unsupervised Learning
 
 ## Overview
 The final module of the Stellar Remnant series focuses on **High-Energy Astrophysics**. We simulate **X-Ray Binaries (XRBs)**—systems where a Black Hole or Neutron Star accretes matter from a companion.
@@ -33,6 +33,3 @@ We feed raw spectral data (photon counts in 100 energy bins) into the algorithms
 * **Simulation:** Generated a realistic 300-day outburst cycle exhibiting spectral hysteresis.
 * **Clustering:** K-Means achieved near-perfect separation of accretion states based purely on spectral shape.
 * **Manifold:** PCA revealed that >95% of the spectral variance is explained by just two physical parameters (Temperature and Index).
-
----
-*Created via interaction with Gemini AI | Date: January 23, 2026*
