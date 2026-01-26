@@ -37,7 +37,7 @@ Unlike image recognition (2D-CNNs), audio and wave data require temporal pattern
 * `Matplotlib` (Visualization of strain data)
 * `Scikit-Learn` (Train/Test splitting)
 
-## 📊 Visuals
+## Visuals
 The notebook includes visualizations comparing:
 * **The Theoretical Signal:** The clean "Chirp" waveform.
 * **The Detector Input:** The noisy mess the AI actually sees.
