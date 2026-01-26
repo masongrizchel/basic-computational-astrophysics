@@ -1,7 +1,7 @@
 # X-Ray Binaries & Unsupervised Learning
 
 ## Overview
-The final module of the Stellar Remnant series focuses on **High-Energy Astrophysics**. We simulate **X-Ray Binaries (XRBs)**—systems where a Black Hole or Neutron Star accretes matter from a companion.
+The final module of the Stellar Remnant series focuses on **High-Energy Astrophysics**. We simulate **X-Ray Binaries (XRBs)**, systems where a Black Hole or Neutron Star accretes matter from a companion.
 
 Unlike previous modules that used Supervised Learning (training on labeled data), this session utilizes **Unsupervised Learning** (K-Means and PCA). The goal is to let the AI independently "rediscover" the physical accretion states of a Black Hole without human guidance.
 
