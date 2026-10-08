@@ -6,5 +6,3 @@ A collection of computational physics experiments focused on astrophysics. This 
 This is a test.
 
 This is a test.
-
-This is a test.
